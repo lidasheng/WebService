@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ab63a-b6a2-4c22-8416-36711ef920dd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ClientTest.java" afterPath="$PROJECT_DIR$/src/ClientTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StockPrice.java" afterPath="$PROJECT_DIR$/src/StockPrice.java" />
-    </list>
+    <list default="true" id="372ab63a-b6a2-4c22-8416-36711ef920dd" name="Default" comment="" />
     <ignored path="WebService.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="372ab63a-b6a2-4c22-8416-36711ef920dd" time="1368675228183" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="372ab63a-b6a2-4c22-8416-36711ef920dd" time="1368687366037" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="372ab63a-b6a2-4c22-8416-36711ef920dd" time="1368687519005" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="372ab63a-b6a2-4c22-8416-36711ef920dd" time="1368681005120" ignored="false" />
     <file path="/StockPrice.java" changelist="372ab63a-b6a2-4c22-8416-36711ef920dd" time="1368687335721" ignored="false" />
     <file path="/Client.java" changelist="372ab63a-b6a2-4c22-8416-36711ef920dd" time="1368683402504" ignored="false" />
@@ -79,7 +76,7 @@
       <file leaf-file-name="StockPrice.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StockPrice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="89" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0">
+            <state line="30" column="15" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,7 +107,7 @@
       <file leaf-file-name="ClientTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.6233766">
+            <state line="10" column="10" selection-start="252" selection-end="252" vertical-scroll-proportion="0.37662336">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -576,6 +573,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StockPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="15" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="36" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
@@ -585,18 +591,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StockPrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="89" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.6233766">
+        <state line="10" column="10" selection-start="252" selection-end="252" vertical-scroll-proportion="0.37662336">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
