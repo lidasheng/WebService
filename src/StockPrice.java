@@ -25,7 +25,7 @@ public class StockPrice {
     public String getStockPrice(@PathParam("stockId") String stockId) {
         try {
 
-            URL url = new URL("http://download.finance.yahoo.com/d/quotes.csv?s=600036.SS&f=nab");
+            URL url = new URL("http://download.finance.yahoo.com/d/quotes.csv?s="+stockId+"&f=nab");
             BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
             return br.readLine();
 
